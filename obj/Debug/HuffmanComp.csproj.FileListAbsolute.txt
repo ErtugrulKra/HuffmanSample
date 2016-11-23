@@ -1,0 +1,6 @@
+C:\Projects\ArgeSolution-2016\HuffmanComp\bin\Debug\HuffmanComp.exe.config
+C:\Projects\ArgeSolution-2016\HuffmanComp\bin\Debug\HuffmanComp.exe
+C:\Projects\ArgeSolution-2016\HuffmanComp\bin\Debug\HuffmanComp.pdb
+C:\Projects\ArgeSolution-2016\HuffmanComp\obj\Debug\HuffmanComp.csprojResolveAssemblyReference.cache
+C:\Projects\ArgeSolution-2016\HuffmanComp\obj\Debug\HuffmanComp.exe
+C:\Projects\ArgeSolution-2016\HuffmanComp\obj\Debug\HuffmanComp.pdb
